@@ -1,1 +1,1 @@
-https://github.com/olegsokolov19/ono-tebe-nado.git
+https://github.com/olegsokolov19/ono-tebe-nado
