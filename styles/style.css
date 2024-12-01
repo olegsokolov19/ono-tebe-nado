@@ -71,6 +71,10 @@ body {
   font-size: 100px;
 }
 
+.line-height__increased {
+  line-height: 122%;
+}
+
 .aligned-text {
   display: block;
 }
@@ -264,6 +268,7 @@ body {
 
 .footer__menu-list {
   list-style: none;
+  padding-left: 40px;
 }
 
 .footer__menu-list-item {
